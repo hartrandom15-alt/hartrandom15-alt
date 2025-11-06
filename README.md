@@ -1,4 +1,4 @@
-👋 Olá! Eu sou [Seu Nome]
+👋 Olá! Eu sou Arthur
 
 🎯 Desenvolvedor(a) [Frontend | Backend | Full Stack | Data Scientist | etc.]
 💡 Apaixonado(a) por tecnologia, aprendizado contínuo e resolver problemas através do código.
@@ -7,7 +7,7 @@
 
 💻 Atualmente trabalhando em: [Projeto ou área atual]
 
-🌱 Aprendendo: [Tecnologia ou linguagem que está estudando]
+🌱 Aprendendo: TI
 
 🧠 Interesses: [Ex: Inteligência Artificial, Desenvolvimento Web, Automação, UI/UX, etc.]
 
