@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Olá! Eu sou [Seu Nome]
 
-<!--
-**hartrandom15-alt/hartrandom15-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor(a) [Frontend | Backend | Full Stack | Data Scientist | etc.]
+💡 Apaixonado(a) por tecnologia, aprendizado contínuo e resolver problemas através do código.
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atualmente trabalhando em: [Projeto ou área atual]
+
+🌱 Aprendendo: [Tecnologia ou linguagem que está estudando]
+
+🧠 Interesses: [Ex: Inteligência Artificial, Desenvolvimento Web, Automação, UI/UX, etc.]
+
+🤝 Aberto(a) a colaborações em: [Projetos open source, startups, comunidades, etc.]
+
+⚡ Curiosidade: [Um fato interessante sobre você]
+
+🛠️ Tecnologias e Ferramentas
+
+💬 Linguagens:
+Python • JavaScript • TypeScript • C# • Java • Go
+
+🧰 Frameworks e Ferramentas:
+React • Node.js • Express • Django • Flask • Git • Docker
+
+🗄️ Banco de Dados:
+PostgreSQL • MongoDB • MySQL
+
+☁️ Cloud & DevOps:
+AWS • Azure • Vercel • GitHub Actions
